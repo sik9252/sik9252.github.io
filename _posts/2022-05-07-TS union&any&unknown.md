@@ -15,7 +15,7 @@ let name: string | number = "Lee"; // string 타입
 nane = 100; // number 타입
 ```
 
-let name: (string | number)와 같이 소괄호를 쳐도 된다.
+`let name: (string | number)`와 같이 소괄호를 쳐도 된다.
 
 array 혹은 object 자료를 만들 때 union type은 아래와 같이 허용할 타입을 소괄호로 묶어 사용한다.
 
