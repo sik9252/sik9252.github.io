@@ -84,7 +84,7 @@ function TeachingSubject(teacher: { subject: string | string[] }) {
   // subject 타입이 string일때
   if (typeof teacher.subject === "string") {
     return teacher.subject;
-    // subject 아팁이 배열일때
+    // subject 타입이 배열일때
   } else if (Array.isArray(teacher.subject)) {
     return teacher.subject[teacher.subject.length - 1];
     // 그 외의 타입일때
