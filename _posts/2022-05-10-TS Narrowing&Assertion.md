@@ -1,6 +1,6 @@
 ---
 title: Typescript Narrowing & Assertion
-date: 2022-05-19 19:07 + 0900
+date: 2022-05-09 19:07 + 0900
 category: [Typescript]
 ---
 
