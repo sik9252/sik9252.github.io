@@ -15,7 +15,7 @@ object 타입지정시 사용 가능하다.
 type Square = { color: string; width: number };
 let square: Square = { color: "red", width: 100 };
 
-// interface 사용하여 타입지정하는 방법
+// interface 문법을 사용하여 타입지정하는 방법
 interface Square {
   color: string;
   width: number;
